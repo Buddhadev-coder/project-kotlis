@@ -809,6 +809,16 @@
       }
     }
   }
+  .xl\:max-w-\[12\] {
+    @media (width >= 1280px) {
+      max-width: 12;
+    }
+  }
+  .xl\:max-w-\[1280\] {
+    @media (width >= 1280px) {
+      max-width: 1280;
+    }
+  }
   .xl\:max-w-\[1280px\] {
     @media (width >= 1280px) {
       max-width: 1280px;
